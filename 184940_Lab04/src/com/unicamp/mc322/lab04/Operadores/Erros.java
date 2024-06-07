@@ -1,0 +1,11 @@
+package com.unicamp.mc322.lab04.Operadores;
+
+public enum Erros {
+	DIA_CHEIO,
+	JA_AGENDADO,
+	DIA_INVALIDO,
+	USUARIO_NAO_CADASTRADO,
+	USUARIO_FORA_DA_FAIXA_ETARIA,
+	POSTO_NAO_CADASTRADO,
+	SUCESSO;	
+}
